@@ -18,9 +18,13 @@ This repository contains models for simulating a plate heat exchanger. The model
 
 ## Reference Paper
 
-The SISO model is based on the following paper:
+The SISO Model and Fuzzy Model are based on the following paper:
 
 > I. Škrjanc and D. Matko, ‘Predictive functional control based on fuzzy model for heat-exchanger pilot plant’, IEEE Transactions on Fuzzy Systems, vol. 8, no. 6, pp. 705–712, Dec. 2000, [doi: 10.1109/91.890329](https://doi.org/10.1109/91.890329).
+
+A more recent explanation of the models and their identification is available here:
+
+> M. Ožbot, E. Lughofer and I. Škrjanc, "Evolving Neuro-Fuzzy Systems-Based Design of Experiments in Process Identification," in IEEE Transactions on Fuzzy Systems, vol. 31, no. 6, pp. 1995-2005, June 2023, doi: 10.1109/TFUZZ.2022.3216992.
 
 ## Getting Started
 
