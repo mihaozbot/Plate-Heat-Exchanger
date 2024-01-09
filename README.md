@@ -24,17 +24,7 @@ The SISO model is based on the following paper:
 
 ## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone [repository-link]
-   ```
-
-2. Navigate to the desired model directory:
-   ```bash
-   cd [desired_directory]
-   ```
-
-3. Open the MATLAB `.m` files and run them in MATLAB 2023a or later.
+Open the MATLAB `.m` files and run them in MATLAB 2023a or later.
 
 ## Requirements
 
