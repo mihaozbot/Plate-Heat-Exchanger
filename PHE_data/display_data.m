@@ -33,14 +33,14 @@ for i = 1:length(files)
         subplot(2, 1, 1);
         plot(u_data);
         title('Input Signal');  % Set subplot title for 'u'
-        xlabel('Index');
+        xlabel('Time step');
         ylabel('u');
         
         % Subplot for 'x'
         subplot(2, 1, 2);
         plot(x_data);
         title('State Signals');  % Set subplot title for 'x'
-        xlabel('Index');
+        xlabel('Time step');
         ylabel('x');
         
         % Add legend for 'x' subplot
